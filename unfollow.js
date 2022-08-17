@@ -6,3 +6,4 @@ $$('.member_li').forEach(l => l.click());
 $('.W_btn_a[node-type="cancelFollowBtn"]').click();
 /* 点击确认按钮 */
 $('[node-type="ok"]').click();
+
